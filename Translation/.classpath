@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-api-client-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-api-client-gson-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-api-client-java6-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-http-client-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-http-client-gson-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-http-client-jdo-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/google-oauth-client-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/google-api-services-translate-v2-rev51-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/google-api-services-translate-v2-rev51-1.25.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-api-services-translate-v2-rev51-java-1.25.0/translate/google-api-services-translate-v2-rev51-1.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/com.google.guava_1.6.0.jar/com.google.guava_1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Documents/google-gson-stream-1.7.1.jar/google-gson-stream-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/poi-bin-3.17-20170915 (1)/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java_Latest/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java-2.48.2-20180417T123724Z-001/selenium-java-2.48.2/selenium-2.48.2/libs/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmostafa/Downloads/selenium-java-2.48.2-20180417T123724Z-001/selenium-java-2.48.2/selenium-2.48.2/libs/guava-18.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
